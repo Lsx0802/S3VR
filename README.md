@@ -1,3 +1,2 @@
-# Physics-Inspired Image Transformation for CT-US Registration via Diffusion Model and Synthesis-to-Real Domian Adaptation
+# DiSCUSS: A Diffusion Stimulated CT-US Registration Model with Self-supervised Learning and Synthetic-to-real Domain Adaptation
 
-S^3VR
